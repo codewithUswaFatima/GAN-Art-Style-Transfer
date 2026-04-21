@@ -1,0 +1,39 @@
+# Dataset images - too large for GitHub
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+
+# Model results
+/results/
+/checkpoints/
+/datasets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+
+# Google Colab temp files
+*.temp
+drive/
+
+# OS files
+.DS_Store
+Thumbs.db

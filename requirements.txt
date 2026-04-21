@@ -1,0 +1,15 @@
+# CycleGAN Requirements
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+dominate>=2.6.0
+visdom>=0.1.8
+Pillow>=9.0.0
+
+# CartoonGAN Requirements
+tensorflow>=2.10.0
+numpy>=1.23.0
+
+# General
+matplotlib>=3.5.0
+ipython>=8.0.0
